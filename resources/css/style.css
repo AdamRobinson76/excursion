@@ -2,3 +2,14 @@ html{background-color: black; text-align: center;}
 h1{color: white; text-align: center;
 font-style: Verdana; font-weight: normal;
 font-size: 50px;}
+h3{color: aquamarine;
+font-size: 16px;}
+h2{font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+color: white;}
+p{color: gray;
+font-family: Verdana;
+font-size: 21px}
+h4{text-align: right;
+color: gray;}
